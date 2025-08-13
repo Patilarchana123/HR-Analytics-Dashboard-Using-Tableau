@@ -93,6 +93,3 @@ Overall, the **HR Analytics Dashboard** is an essential tool for any HR professi
 ---
 
 
-
-## 🏷 Topics
-`visualization` `data-science` `sql` `dashboard` `excel` `tableau` `data-visualization` `hr-dataset` `data-analytics` `employees` `tableau-public` `hr-analytics`
